@@ -1,0 +1,19 @@
+
+body {
+  margin: 0;
+}
+.container {
+  overflow: hidden;
+}
+section {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 600px;
+}
+section div {
+  background:black;
+  float: left;
+  height: 138px;
+  margin: 1%;
+  width: 138px;
+}
